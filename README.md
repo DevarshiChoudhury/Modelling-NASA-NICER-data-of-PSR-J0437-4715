@@ -1,4 +1,4 @@
-# Modelling PSR J0437-4715 NICER data
+# Modelling NASA's NICER data of PSR J0437-4715
 
 ## Overview
 
